@@ -19,5 +19,7 @@ Speed
 User experience
 
 ## OUTPUT
+[EX-02-Cross-Platform-Prompting.docx](https://github.com/user-attachments/files/25564962/EX-02-Cross-Platform-Prompting.docx)
+
 
 ## RESULT
