@@ -23,3 +23,5 @@ User experience
 
 
 ## RESULT
+Role-Based Prompting on Claude produced the clearest and most student-friendly summary, accurately covering all key blockchain concepts without jargon, making it the top performer in simplicity and coherence.
+Chain-of-Thought prompting on ChatGPT delivered the most factually complete and logically structured summary by reasoning step-by-step, achieving the highest accuracy score across all platform-technique combinations tested.
