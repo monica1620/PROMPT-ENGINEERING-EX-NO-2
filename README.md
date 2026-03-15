@@ -20,7 +20,7 @@ User experience
 
 ## OUTPUT
 
-[EX-02-Cross-Platform-Prompting (1).docx](https://github.com/user-attachments/files/25567362/EX-02-Cross-Platform-Prompting.1.docx)
+(uploaded on top)
 
 
 ## RESULT
